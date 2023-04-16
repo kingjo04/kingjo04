@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raja Josua Simanungkalit</h1>
-<h3 align="center">I am currently studying at the Sumatera Institute of Technology majoring in informatics engineering</h3>
+<h3 align="center">I am currently studying at the Sumatran Institute of Technology majoring in informatics engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingjo&label=Profile%20views&color=0e75b6&style=flat" alt="kingjo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingjo" alt="kingjo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rajajosua0411" target="blank"><img src="https://img.shields.io/twitter/follow/rajajosua0411?logo=twitter&style=for-the-badge" alt="rajajosua0411" /></a> </p>
 
@@ -17,7 +15,7 @@
 <a href="https://linkedin.com/in/rajajosua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajajosua" height="30" width="40" /></a>
 <a href="https://instagram.com/rajajosua_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajajosua_" height="30" width="40" /></a>
 <a href="https://medium.com/@rajajosuasimanungkalit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajajosuasimanungkalit" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rajajosua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajajosua" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@RajaJosua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajajosua" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
