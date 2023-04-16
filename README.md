@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raja Josua Simanungkalit</h1>
-<h3 align="center">I am currently studying at the Sumatran Institute of Technology majoring in informatics engineering</h3>
+<h3 align="center">I am currently studying at the Sumatera Institute of Technology majoring in informatics engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingjo&label=Profile%20views&color=0e75b6&style=flat" alt="kingjo" /> </p>
 
